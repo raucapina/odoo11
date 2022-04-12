@@ -1,3 +1,6 @@
 [submodule "addons-zabyca"]
 	path = addons-zabyca
 	url = https://github.com/raucapina/addons-zabyca.git
+[submodule "addons-ee-11"]
+	path = addons-ee-11
+	url = https://github.com/zabyca/addons-ee-11.git
