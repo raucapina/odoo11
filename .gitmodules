@@ -1,6 +1,15 @@
-[submodule "addons-zabyca"]
-	path = addons-zabyca
-	url = https://github.com/raucapina/addons-zabyca.git
 [submodule "addons-ee-11"]
 	path = addons-ee-11
 	url = https://github.com/zabyca/addons-ee-11.git
+[submodule "addons-zabyca-ee"]
+	path = addons-zabyca-ee
+	url = https://github.com/zabyca/addons-zabyca-ee.git
+[submodule "origin."]
+	path = addons-zabyca
+	url = https://github.com/zabyca/addons-zabyca.git
+[submodule "odoo11-ce"]
+	path = odoo11-ce
+	url = https://github.com/zabyca/odoo11-ce.git
+[submodule "integralis_school"]
+	path = integralis_school
+	url = https://github.com/zabyca/integralis_school.git
